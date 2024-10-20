@@ -1,0 +1,13 @@
+/* index.css or tailwind.css */
+@import url('https://fonts.googleapis.com/css2?family=Monrope:wght@400;700&display=swap');
+
+/* Custom class */
+.custom-font {
+  font-family: 'Monrope', sans-serif;
+}
+
+/* Other Tailwind directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
